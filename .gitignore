@@ -1,0 +1,4 @@
+cyber_bert_model/model.safetensors
+*.safetensors
+cyber_logs.csv
+malicious_phish.csv
