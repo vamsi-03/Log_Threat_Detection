@@ -1,4 +1,4 @@
-CyberBERT: Semantic Log Threat Detection
+# CyberBERT: Semantic Log Threat Detection
 
 CyberBERT is a production-grade cybersecurity tool designed to detect malicious intent in system logs and URLs using a fine-tuned DistilBERT architecture. Unlike traditional Regex-based systems, CyberBERT understands the semantics and context of log messages, allowing it to identify obfuscated threats and zero-day patterns.
 
